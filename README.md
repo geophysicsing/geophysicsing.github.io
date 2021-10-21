@@ -1,1 +1,1 @@
-# geophysicing.github.io
+# geophysicsing.github.io
